@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://10.88.66.88:8080/crewportal/CrewPortal.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://foc.sf-express.com/ipadapp/sfapad/2.04/iTunesArtwork.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string></string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.sfairlines.SFAPortal</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>SF-AirLine</string>
+				<key>title</key>
+				<string>CrewPortal</string>
+				<key>bundle-version</key>
+				<string>4.0.0</string>
+				<key>forceUpdate</key>
+				<false/>
+				<key>updateInfoCN</key>
+				<string>我需要升级了</string>
+				<key>updateInfoEN</key>
+				<string>I need update</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
