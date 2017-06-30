@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.88.66.88:8080/crewportal/CrewPortal_UAT.ipa</string>
+					<string>http://10.88.66.88:8080/crewportal/CrewPortal_uat.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
